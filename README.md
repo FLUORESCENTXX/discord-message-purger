@@ -3,11 +3,11 @@ A python script that auto-purges some messages, or alot
 
 # Requirements
 -------USE THESE IN CMD--------
--pip install discord
--pip install asyncio
--pip install json
--pip install sys
--pip install time
+*pip install discord
+*pip install asyncio
+*pip install json
+*pip install sys
+*pip install time
 
 
 # Installation
